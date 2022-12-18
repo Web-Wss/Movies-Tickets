@@ -5,11 +5,11 @@
 
 # 前端展示
 
-![img](D:\Github Project\Movies-Tickets\img\clip_image002.jpg)
+![img](https://github.com/Web-Wss/Movies-Tickets/blob/main/img/clip_image002.jpg)
 
 # 后台展示
 
-![img](D:\Github Project\Movies-Tickets\img\clip_image002-1671329012999.jpg)
+![img](https://github.com/Web-Wss/Movies-Tickets/blob/main/img/clip_image002-1671329012999.jpg)
 
 ## 项目说明 
 
